@@ -1,3 +1,3 @@
-#soutenance de thèse
+#Soutenance de thèse
 
 Utiliser (https://thèses.fr) 
