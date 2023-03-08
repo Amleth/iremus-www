@@ -1,10 +1,8 @@
 # Page d'accueil
 
-Coucou.
-
-- Item 1
-- Item 2
-- Item 3
+- outil de recherche
+- news
+- agenda type Radio France
 
 *en emphase*
 
