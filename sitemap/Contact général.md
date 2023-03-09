@@ -1,4 +1,4 @@
-#Contact général
+# Contact général
 
 Uniquement coordonnées globales :
 
@@ -14,13 +14,3 @@ Uniquement coordonnées globales :
   - salle 524 (informatique), bureau 531 (direction)
   - 2, rue Francis de Croisset 75018 PARIS
   - Tél : +33 1 53 09 56 00
-
-- Centre Sorbonne
-  - Salle Pirro
-  - 1, rue Victor Cousin 75005 PARIS
-  - Tél : +33 1 40 46 22 11
-
-- Maison de la recherche
-  - Salle 312 et 313
-  - 28, rue Serpente 75006 PARIS
-  - Tél : +33 1 53 10 57 00
