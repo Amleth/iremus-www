@@ -1,13 +1,13 @@
 # Page d'accueil
 
-- outil de recherche
-- news
-- agenda type Radio France
-
-*en emphase*
-
-**en gras**
-
-## Deuxième niveau de titre...
-
-Etc.
+Fait apparaître : 
+- Laboratoire
+- Activité scientifique
+- Ressources numériques
+- Outil de recherche
+- News
+- Réseaux
+- Contact (général)
+- Appels en cours
+- Offres d'emploi et de stages
+- Tutelles
