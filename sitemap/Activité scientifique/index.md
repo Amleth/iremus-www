@@ -1,8 +1,2 @@
 # Activité scientifique
 
-## Augustin :
-coucou
-
-
-
- 
